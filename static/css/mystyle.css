@@ -1,0 +1,150 @@
+.jumbotron {
+    background-image: url("../img/NSW-eBook-Header.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #ecf0f1;
+    margin-bottom: 0px;
+    background-size: cover;
+    background-position: bottom;
+    padding: 150px;
+    margin-bottom: 0px;
+    background-attachment: fixed;
+    background-position: center;
+   
+
+}
+
+.myfontColor {
+	color: #868e96;
+}
+
+#product {
+	background-color: #ecf0f1;
+}
+
+.mypadding {
+	padding-top: 20px;
+}
+
+.myimg {
+	margin-left: 50%;
+}
+
+.mylist {
+	list-style-type: none;
+}
+.mytext {
+	text-align: center;
+}
+
+#price {
+	background-color:#ecf0f1;
+}
+
+.myCard {
+	/*padding-left: 10px;
+	padding-right: 10px;*/
+	padding-bottom: 30px;
+}
+
+.myButton {
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.my-text {
+	font-size: 12px;
+	text-align: justify;
+}
+
+#business{
+	background-image: url(../img/business1.jpeg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#footer {
+	padding-top: 30px;
+	background-color: #34495e;
+	color: #ecf0f1;
+}
+
+.Ul {
+	padding-left: 0;
+}
+.iconColor {
+	color: #2ecc71;
+}
+
+
+.card {
+	
+	border: 1px solid;
+}
+
+.card:hover {
+	background-color: #82ca9c;
+	color: #fff
+}
+
+.card:hover i {
+	color: #fff;
+}
+
+.my-Card{
+	box-shadow: 4px 2px 1px 2px;
+}
+
+.fit {
+	min-width: fit-content;
+}
+
+.team{
+    background-color: #EEEEEE;
+    padding: 50px 0;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+ul.social-buttons li a {
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+ul.social-buttons li a:hover {
+    color: #1e3799;
+}
+
+.team .large{
+    padding-top: 50px;
+
+}
+
+#btnScroll {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    z-index: 99;
+    cursor: pointer;
+    padding: 5px;
+    
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    background-color: #30336b;
+    color: white;
+}
